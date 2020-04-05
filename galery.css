@@ -1,0 +1,17 @@
+body{
+    background-image: url("back.jpg") ;
+}
+.links{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
+a:hover{
+    text-decoration: underline;
+}
+footer{
+    background-color: gray;
+    text-align: center;
+    padding: 30px;
+    color: wheat;
+}
