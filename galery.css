@@ -1,6 +1,9 @@
 body{
     background-image: url("back.jpg") ;
 }
+.title{
+    text-align: center;
+}
 .links{
     text-decoration: none;
     color: white;
