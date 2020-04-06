@@ -3,6 +3,7 @@ body{
 }
 .title{
     text-align: center;
+    background-color: aliceblue;
 }
 .links{
     text-decoration: none;
